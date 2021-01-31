@@ -1,0 +1,8 @@
+{
+  "short_name": "React Hooks & React-Redux ToDo App with Styled Components & React-Router",
+  "name": "React Hooks & React-Redux ToDo App with Styled Components & React-Router",
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
